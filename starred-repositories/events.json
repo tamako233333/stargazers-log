@@ -1,0 +1,19 @@
+{
+  "repositories": [
+    {
+      "name": "Repository One",
+      "description": "This is the first starred repository.",
+      "url": "https://github.com/user/repo1"
+    },
+    {
+      "name": "Repository Two",
+      "description": "This is the second starred repository.",
+      "url": "https://github.com/user/repo2"
+    },
+    {
+      "name": "Repository Three",
+      "description": "This is the third starred repository.",
+      "url": "https://github.com/user/repo3"
+    }
+  ]
+}
